@@ -1,0 +1,25 @@
+# Core deep-learning and Hugging Face stack
+torch
+transformers
+accelerate
+datasets
+huggingface_hub
+peft
+evaluate
+
+# Data processing and evaluation
+numpy
+pandas
+scikit-learn
+tqdm
+
+# Linguistic analysis
+spacy
+textstat
+
+# Visualization
+matplotlib
+seaborn
+
+# GPU resource profiling
+nvidia-ml-py
